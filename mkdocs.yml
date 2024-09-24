@@ -1,0 +1,8 @@
+site_name: My Docs
+theme:
+    name: material
+nav:
+    - 主页: index.md
+    - fu:
+        - a: a.md
+
