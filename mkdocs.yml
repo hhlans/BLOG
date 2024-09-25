@@ -1,4 +1,11 @@
 site_name: My Docs
+
+
+# Repository
+repo_name: chem
+repo_url: https://github.com/hhlans/BLOG
+
+
 theme:
     name: material
 nav:
@@ -6,3 +13,6 @@ nav:
     - fu:
         - a: a.md
 
+plugins:
+  - search:
+      lang: en
