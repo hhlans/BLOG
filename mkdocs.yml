@@ -33,10 +33,9 @@ theme:
     - search.suggest
 nav:
     - 主页:
-          - zhuye:
-            - zhuye: index.md
-    - fu:
-        - a: a.md
+          - 概述: index.md
+    - 数学基础 :
+        - 概述: a.md
 
 plugins:
   - search:
