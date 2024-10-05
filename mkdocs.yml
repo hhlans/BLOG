@@ -1,4 +1,4 @@
-site_name: 化工博客
+site_name: CET
 
 
 # Repository
@@ -55,7 +55,7 @@ nav:
           - 概述:
               - index: index.md
     - 博客搭建模版 :
-        - 颜色: ctc.md
+
 
 plugins:
   - search:
