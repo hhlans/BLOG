@@ -51,11 +51,10 @@ markdown_extensions:
 extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 nav:
-    - 主页:
-          - 概述:
-              - index: index.md
-    - 博客搭建模版 :
-
+  - 主页:
+    - 概述: index.md
+  - 博客搭建模版 :
+    - 概述: index.md
 
 plugins:
   - search:
