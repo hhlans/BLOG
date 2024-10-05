@@ -15,3 +15,14 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files
+
+
+$$
+\begin{aligned}
+5 &=(101)_2\\
+6 &=(110)_2\\
+5\operatorname\&6 &=(100)_2 =\ 4\\
+5\operatorname|6 &=(111)_2 =\ 7\\
+5\oplus6 &=(011)_2 =\ 3\\
+\end{aligned}
+$$

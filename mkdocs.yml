@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: 化工博客
 
 
 # Repository
@@ -9,6 +9,7 @@ repo_url: https://github.com/hhlans/BLOG
 theme:
   name: material
 #  custom_dir: material/overrides
+  favicon: 'favicon.ico'
   features:
     - announce.dismiss
     - content.code.annotate
@@ -31,6 +32,14 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 nav:
     - 主页:
           - 概述: index.md
@@ -40,3 +49,4 @@ nav:
 plugins:
   - search:
       lang: en
+
