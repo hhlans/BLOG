@@ -10,6 +10,7 @@ theme:
   name: material
 #  custom_dir: material/overrides
   favicon: 'favicon.ico'
+  logo: 'favicon.ico'
   features:
     - announce.dismiss
     - content.code.annotate
