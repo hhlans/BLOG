@@ -44,8 +44,8 @@ extra_javascript:
 nav:
     - 主页:
           - 概述: index.md
-    - 数学基础 :
-        - 概述: a.md
+    - 博客搭建模版 :
+        - 颜色: ctc.md
 
 plugins:
   - search:
