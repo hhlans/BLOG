@@ -12,27 +12,11 @@ theme:
   favicon: 'favicon.ico'
   logo: 'favicon.ico'
   features:
-    - announce.dismiss
-    - content.code.annotate
-    - content.code.copy
-    # - content.code.select
-    # - content.footnote.tooltips
-    # - content.tabs.link
-    - content.tooltips
-    # - header.autohide
-    # - navigation.expand
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
-    # - navigation.prune
-    - navigation.sections
-    - navigation.tabs
-    # - navigation.tabs.sticky
-    - navigation.tracking
-    - navigation.top
-    - search.highlight
-    - search.share
-    - search.suggest
+    palette:
+      scheme: default
+      primary: indigo
+      accent: indigo
+
 # Extensions
 markdown_extensions:
   - toc:
