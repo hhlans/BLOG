@@ -22,8 +22,8 @@ theme:
     - content.tooltips
     # - header.autohide
     # - navigation.expand
-    - navigation.footer
-    - navigation.indexes
+    #- navigation.footer
+    #- navigation.indexes
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
@@ -32,7 +32,7 @@ theme:
     - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
-    - navigation.tracking
+    #- navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
@@ -108,12 +108,12 @@ extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 nav:
   - 主页 :
-      - Getting-Start : gs/0.md
+      - Getting-Start : index.md
   - 化工基本观点 :
-      - 概述 : hgjbgd/0.md
+      - 概述 : hgjbgd/index.md
       - 推动力阻力 : hgjbgd/1.md
   - 博客搭建模版 :
-      - 概述 : bkdjmb/0.md
+      - 概述 : bkdjmb/index.md
 
 plugins:
   - blog
