@@ -9,6 +9,8 @@ repo_url: https://github.com/hhlans/BLOG
 theme:
   name: material
   custom_dir: material/overrides
+  palette:
+      primary:white
   favicon: 'favicon.ico'
   logo: 'favicon.ico'
   features:
