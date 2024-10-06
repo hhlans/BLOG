@@ -138,4 +138,5 @@ nav:
 plugins:
   - search:
       lang: en
+  - tags
 
