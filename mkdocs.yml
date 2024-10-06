@@ -8,7 +8,6 @@ repo_url: https://github.com/hhlans/BLOG
 
 theme:
   name: material
-  custom_dir: material/overrides
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -16,7 +15,7 @@ theme:
       primary: white
       accent: red
       toggle:
-        icon: material/lightbulb
+        icon: material/toggle-switch
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -25,7 +24,7 @@ theme:
       primary: black
       accent: black
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
   favicon: 'favicon.ico'
   logo: 'favicon.ico'
