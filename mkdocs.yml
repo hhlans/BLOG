@@ -8,7 +8,7 @@ repo_url: https://github.com/hhlans/BLOG
 
 theme:
   name: material
-  custom_dir: src/overrides
+  custom_dir: material/overrides
   favicon: 'favicon.ico'
   logo: 'favicon.ico'
   features:
@@ -137,6 +137,7 @@ nav:
       - 概述 : bkdjmb/0.md
 
 plugins:
+  - blog
   - search:
       lang: en
   - tags
