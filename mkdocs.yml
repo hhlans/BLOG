@@ -19,7 +19,7 @@ theme:
     # - content.code.select
     # - content.footnote.tooltips
     # - content.tabs.link
-    - content.tooltips
+    #- content.tooltips
     # - header.autohide
     # - navigation.expand
     #- navigation.footer
