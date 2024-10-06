@@ -10,7 +10,23 @@ theme:
   name: material
   custom_dir: material/overrides
   palette:
-      primary:white
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
   favicon: 'favicon.ico'
   logo: 'favicon.ico'
   features:
