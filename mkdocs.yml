@@ -108,7 +108,7 @@ extra_javascript:
   - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 nav:
   - 主页 :
-      - 概述 : gs/0.md
+      - Getting-Start : gs/0.md
   - 化工基本观点 :
       - 概述 : hgjbgd/0.md
       - 推动力阻力 : hgjbgd/1.md
