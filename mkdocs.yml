@@ -8,7 +8,7 @@ repo_url: https://github.com/hhlans/BLOG
 
 theme:
   name: material
-#  custom_dir: material/overrides
+  custom_dir: material/overrides
   favicon: 'favicon.ico'
   logo: 'favicon.ico'
   features:
@@ -51,6 +51,10 @@ theme:
           bug: octicons/bug-16
           example: octicons/beaker-16
           quote: octicons/quote-16
+
+
+# Hooks
+
 # Additional configuration
 extra:
   status:
