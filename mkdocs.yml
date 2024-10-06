@@ -30,10 +30,10 @@ theme:
   favicon: 'favicon.ico'
   logo: 'favicon.ico'
   features:
-    - announce.dismiss
-    - content.action.view
-    - content.code.annotate
-    - content.code.copy
+    #- announce.dismiss
+    #- content.action.view
+    #- content.code.annotate
+    #- content.code.copy
     # - content.code.select
     # - content.footnote.tooltips
     # - content.tabs.link
@@ -52,7 +52,7 @@ theme:
     - navigation.top
     #- navigation.tracking
     - search.highlight
-    - search.share
+    #- search.share
     - search.suggest
     #- toc.follow
     - icon:
@@ -129,7 +129,6 @@ nav:
       - 概述 : bkdjmb/index.md
 
 plugins:
-  - blog
   - search:
       lang: en
   - tags
