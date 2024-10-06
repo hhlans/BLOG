@@ -16,7 +16,7 @@ theme:
       primary: white
       accent: red
       toggle:
-        icon: material/weather-sunny
+        icon: material/lightbulb
         name: Switch to dark mode
 
     # Palette toggle for dark mode
@@ -25,7 +25,7 @@ theme:
       primary: blue grey
       accent: blue grey
       toggle:
-        icon: material/weather-night
+        icon: material/lightbulb-outline
         name: Switch to light mode
   favicon: 'favicon.ico'
   logo: 'favicon.ico'
