@@ -1,4 +1,4 @@
-!!! note "这是 note 类型的提示框"
+
 
 !!! success "这是 success 类型的提示框"
 
